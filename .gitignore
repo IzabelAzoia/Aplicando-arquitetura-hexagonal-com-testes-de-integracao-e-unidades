@@ -1,0 +1,23 @@
+# Dependências do Node
+node_modules/
+
+# Diretórios de saída de compilação
+dist/
+build/
+
+# Relatórios de cobertura de testes
+coverage/
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Configurações específicas do editor
+.vscode/
+.idea/
+
+# Arquivos específicos do sistema
+.DS_Store
+
+# Arquivos de ambiente
+*.env
